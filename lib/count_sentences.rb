@@ -24,8 +24,9 @@ class String
     #     counter +=1
     #   end
     # end
-    puts counter
-    counter
+    # puts counter
+    # counter
+    array.length
   end
 
 end
