@@ -21,9 +21,8 @@ class String
       if string != ""
         counter +=1
       end
-    end 
+    end
     counter
-    
   end
-  
+
 end
